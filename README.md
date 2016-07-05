@@ -1,2 +1,4 @@
 # hello-world
-My attempt to learn github
+
+I am trying to learn GitHub in order to collaborate on projects with friends.
+What out world!
